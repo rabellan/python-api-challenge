@@ -1,6 +1,6 @@
 #  Adding config.py file
-**/config.py
-config.py
+**/api_keys.py
+api_keys.py
 
 # MacOS
 **/.DS_Store
